@@ -1,6 +1,6 @@
 # (BUGS FIXED)
 ## 👁️‍🗨️ INFORMATION 👁️‍🗨️
-### Developer: CYBERWARE
+### Developer: CYBER
 ### Language: C# & ASM x86
 ### Version: 1.0
 ### Category: GDI-EmailWorm.Win32
@@ -14,10 +14,6 @@
 ### I, CYBERWARE, am not responsible for any damages or losses resulting from the use.<br><br>
 ## ⤵ RECOMMENDATION ⤵
 ### For testing and study purposes, I strongly recommend using virtual machines like VMware or VirtualBox.<br><br>
-## ❇ SOCIALS ❇
-### ♤ YouTube: [CYBERWARE-TECH](https://www.youtube.com/@CYBERWARE-TECH)
-### ✯ Discord: t3nx1l
-### ☁ Meu Site:  [CYBERWARE PROFILE] (https://linkfly.to/CYBERWARE)
 ## 🔴  Test Video  🔴
-### Made by Me(CYBERWARE): [https://youtu.be/o3Kodt_MIbI]
+### Made by Me: [https://youtu.be/o3Kodt_MIbI]
 ### Made by Joaozz1nn: [https://youtu.be/sSMeOHTPBP0]
